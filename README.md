@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Kishan Bhimani<br><br>🎓 BCA Student | Web Developer | Tech Enthusiast<br><br>I enjoy building modern, responsive, and interactive web applications while continuously exploring new technologies and improving my development skills.<br><br>⚡ Goal<br><br>To become a skilled software developer and build impactful modern applications with great user experience.
 
+My-portfolio https://kishanbhimani-portfoilio.vercel.app/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bhimani___25/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kishan-bhimani-3a5247385) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishanbhimani256@gmail.com) 
@@ -12,8 +14,7 @@ Hi 👋, I'm Kishan Bhimani<br><br>🎓 BCA Student | Web Developer | Tech Enthu
 ![](https://streak-stats.demolab.com/?user=kishani256&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kishani256&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishani256&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
